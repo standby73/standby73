@@ -4,6 +4,7 @@
 <b>AI / Machine Learning Engineer · Computer Vision</b><br>
 2 years in ML: vision, NLP, tabular · MSc in AI (UPV) · Spain<br>
 <a href="mailto:andrespachmill23pharo@gmail.com"><img src="https://img.shields.io/badge/Email-andrespachmill23pharo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-pacheco-mill%C3%A1n-7514b4444/"><img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Pacheco%20Mill%C3%A1n-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
